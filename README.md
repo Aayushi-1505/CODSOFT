@@ -5,11 +5,12 @@ This repository contains the tasks completed as part of the CodSoft Web Developm
 # Task 1: Personal Portfolio Website
 
 ## Description
-The website presents my profile, skills, projects, and contact details in a clean and structured layout.The goal of this task was to design a professional portfolio using core web technologies and deploy it using GitHub Pages.
+The website presents my profile, skills, projects, and contact details in a clean and structured layout.
+The goal of this task was to design a professional portfolio using core web technologies and deploy it using GitHub Pages.
 
 ## Technologies Used
-- HTML5  
-- CSS3  
+- HTML  
+- CSS  
 - Git & GitHub  
 - GitHub Pages (for deployment)
 
